@@ -1,6 +1,4 @@
-## Welcome to Our DSCI 551 Project
-
-You can use the [editor on GitHub](https://github.com/weixingnie/DSCI_551_Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Welcome to Our DSCI 551 Project
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
